@@ -30,8 +30,8 @@ Układy zostały zweryfikowane w dedykowanym środowisku testowym w programie Lo
 
 ## Struktura repozytorium
 
-* `/circuits` – Pliki projektu z środowiska Logisim-Evolution (`.circ`) zawierające hierarchiczne podukłady - półsumatory, pełne sumatory, dokładne i przybliżone kompresory 4:2 oraz pełne architektury PAM1, PAM2 i RAM1.
-* `/docs` – Pełne sprawozdanie techniczne wraz ze schematami drzew redukcji.
+* `Uklady.circ` – Plik projektu ze środowiska Logisim-Evolution zawierający hierarchiczne podukłady (półsumatory, pełne sumatory, dokładne i przybliżone kompresory 4:2 oraz pełne architektury PAM1, PAM2 i RAM1).
+* `Sprawozdanie.pdf` – Pełna dokumentacja techniczna wraz ze schematami drzew redukcji oraz analizą błędów.
 
 ## Literatura źródłowa
 
