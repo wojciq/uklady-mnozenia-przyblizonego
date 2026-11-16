@@ -1,1 +1,1 @@
-"# Ukˆady mno¾enia przybli¾onego do sprz©towej akceleracji sztucznej inteligencji" 
+"# uklady mnozenia przyblizonego do sprzetowej akceleracji sztucznej inteligencji" 
